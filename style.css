@@ -1,0 +1,42 @@
+body{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+#focused-mission-bar{
+    border-left: 3px solid red;
+    border-radius: 3px;
+
+}
+.focused-mission{
+    margin-left: 10px;
+}
+.color{
+    color: darksalmon;
+}
+.button-deco{
+   border: none;
+   color: white;
+   background-color: crimson;
+   padding: 10px 26px;
+   border-radius: 5px;
+}
+.flexible{
+    display:flex;
+}
+.first-sec{
+    margin-left: 50px;
+
+}
+#focused{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.half-width{
+    width: 50%;
+}
+#focused-img{
+    width: 60%;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    
