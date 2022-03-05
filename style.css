@@ -2,6 +2,7 @@ body{
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
     margin: 0%;
+    overflow-x: hidden;
 }
 #focused-mission-bar{
     border-left: 3px solid red;
@@ -39,4 +40,32 @@ body{
     width: 60%;
     margin-left: 100px;
     margin-bottom: 100px;
-    
+}
+.mission-vission-goal{
+    width: 100%;
+    margin: 1em;
+    height: 250px;
+}
+#illustrator-one{
+background-color:cornsilk ;
+border-radius: 15px;
+padding: 30px;
+
+}
+#illustrator-two{
+    background-color:rgb(179, 154, 117);
+    border-radius: 15px;
+    padding: 30px;
+}
+#illustrator-three{
+    background-color: rgb(165, 164, 162);
+    border-radius: 15px;
+    padding: 30px;
+}
+.illustrator-img{
+    width: 37%;
+}
+#mission-vission-goal-div{
+    margin-left: 7em;
+    margin-right: 7em;
+}
