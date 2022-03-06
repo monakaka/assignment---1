@@ -114,6 +114,10 @@ footer h2{
     color: white;
    
 }
+#footer-heading-style{
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
 footer p{
     color: white;
     text-align: center;
