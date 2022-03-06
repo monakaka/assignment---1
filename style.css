@@ -46,6 +46,9 @@ body{
     margin: 1em;
     height: 250px;
 }
+.centerilazation{
+    text-align: center;
+}
 #illustrator-one{
 background-color:cornsilk ;
 border-radius: 15px;
@@ -64,6 +67,7 @@ padding: 30px;
 }
 .illustrator-img{
     width: 37%;
+    border-radius: 5px;
 }
 #mission-vission-goal-div{
     margin-left: 7em;
