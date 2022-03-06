@@ -73,9 +73,25 @@ padding: 30px;
 .develop-global-section{
     margin-top: 5em;
 }
+#left-bg{
+    background-image: url(photo/images/shapes/shape-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position:2em;
+    background-position-y: 70px;
+    
+}
+#right-bg{
+    background-image:url(photo/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom;
+    background-position-x: 62em;
+}
 .develop-goal-img{
     height: 400px;
     width: 400px;
+    margin-bottom: 5em;
 }
 .develop-img-div{
     margin-left: 8em;
@@ -83,4 +99,26 @@ padding: 30px;
 .develop-intro-div{
     margin-left: 3em;
     margin-right: 8em;
+}
+footer{
+    background-color: black;
+    height: 150px;
+    margin: 2px;
+}
+footer h2{
+    text-align: center;
+    color: white;
+   
+}
+footer p{
+    color: white;
+    text-align: center;
+   
+}
+#footer-div{
+    padding-top:1em;
+    margin-top: 4em;
+}
+#footer-mission{
+    color:indianred;
 }
