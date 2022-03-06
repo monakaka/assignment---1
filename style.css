@@ -68,4 +68,19 @@ padding: 30px;
 #mission-vission-goal-div{
     margin-left: 7em;
     margin-right: 7em;
+   
+}
+.develop-global-section{
+    margin-top: 5em;
+}
+.develop-goal-img{
+    height: 400px;
+    width: 400px;
+}
+.develop-img-div{
+    margin-left: 8em;
+}
+.develop-intro-div{
+    margin-left: 3em;
+    margin-right: 8em;
 }
